@@ -84,4 +84,4 @@ its Fully Responsive. Daily Objects is a E-Commerce Website who deals with the c
 2.	Mr. Nitesh Sindhu.
 3.	Mr. Akshay Patel.
 4.	Mr. Shital Suman.
-5.	Ms. Vishal Raj.
+5.	Mr. Vishal Raj.
